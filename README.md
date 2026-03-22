@@ -10,7 +10,7 @@
 Official implementation for the paper:
 
 > **Conformal Prediction-Driven Adaptive Sampling for Digital Twins of Water Distribution Networks**  
-> *Homaei,  Mohammadhossein and Tarif,  Mehran and Rodriguez,  Pablo Garcia and Caro,  Andres and Avila,  Mar*  
+> *Mohammadhossein Homaei, Mehran Tarif, Pablo Garcia Rodriguez, Andres Caro, Aar Avila*  
 > ICT Express, 2026
 
 ---
