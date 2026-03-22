@@ -10,8 +10,8 @@
 Official implementation for the paper:
 
 > **Conformal Prediction-Driven Adaptive Sampling for Digital Twins of Water Distribution Networks**  
-> *Mohammadhossein Homaei, Oscar Mogollon Gutierrez, Ruben Molano, Andres Caro, Mar Avila*  
-> Preprint, 2025
+> *Homaei,  Mohammadhossein and Tarif,  Mehran and Rodriguez,  Pablo Garcia and Caro,  Andres and Avila,  Mar*  
+> ICT Express, 2026
 
 ---
 
@@ -105,11 +105,15 @@ def run_single_step_epanet(inp_file_path, demand_vector_t, junction_names):
 | Violation Rate | ↓      | ✅ 0.23%  |
 
 
-@article{Homaei2025ConformalWDN,
-  title={Conformal Prediction-Driven Adaptive Sampling for Digital Twins of Water Distribution Networks},
-  author={Homaei, Mohammadhossein and Mogollon Gutierrez, Oscar and Molano, Ruben and Caro, Andres and Avila, Mar},
-  journal={Preprint, Arxiv},
-  year={2025}
+@article{Homaei2026conformal,
+  title = {Conformal prediction-driven adaptive sampling for digital water twins},
+  ISSN = {2405-9595},
+  DOI = {10.1016/j.icte.2026.01.010},
+  journal = {ICT Express},
+  publisher = {Elsevier BV},
+  author = {Homaei,  Mohammadhossein and Tarif,  Mehran and Rodriguez,  Pablo Garcia and Caro,  Andres and Avila,  Mar},
+  year = {2026},
+  month = jan 
 }
 
 
