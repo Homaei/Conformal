@@ -104,7 +104,7 @@ def run_single_step_epanet(inp_file_path, demand_vector_t, junction_names):
 | CP Coverage    | 90%    | ✅ 90.2%  |
 | Violation Rate | ↓      | ✅ 0.23%  |
 
-
+```bash
 @article{Homaei2026conformal,
   title = {Conformal prediction-driven adaptive sampling for digital water twins},
   ISSN = {2405-9595},
@@ -115,7 +115,7 @@ def run_single_step_epanet(inp_file_path, demand_vector_t, junction_names):
   year = {2026},
   month = jan 
 }
-
+```
 
 ## Contact
 
